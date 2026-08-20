@@ -17,15 +17,15 @@
 | Difficulty | Solved |
 |:---:|:---:|
 | 🟢 Easy | **14** |
-| 🟡 Medium | **4** |
+| 🟡 Medium | **1** |
 | 🔴 Hard | **0** |
-| **Total** | **18** |
+| **Total** | **15** |
 
 ## 🛠️ Languages
 
 | Language | Solutions |
 |:---:|:---:|
-| Python | **18** |
+| Python | **15** |
 
 ## 📂 Repository Structure
 
