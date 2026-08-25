@@ -50,7 +50,7 @@ Output
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-25T06:51:47.315Z  
+**Submitted:** 2026-08-25T06:57:45.605Z  
 
 ```py
 # cook your dish here
