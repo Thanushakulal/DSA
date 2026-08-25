@@ -64,19 +64,18 @@ YES
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-18T17:51:08.305Z  
+**Submitted:** 2026-08-25T06:02:17.742Z  
 
 ```py
 # cook your dish here
 t=int(input())
-while (t>0):
+while t>0:
     a,b,c=map(int,input().split())
     if (a+b)/2>c:
         print("yes")
     else:
         print("no")
     t-=1
-    
 ```
 
 ---
