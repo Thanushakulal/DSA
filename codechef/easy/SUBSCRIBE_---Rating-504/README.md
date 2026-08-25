@@ -50,18 +50,15 @@ Output
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-25T06:49:18.403Z  
+**Submitted:** 2026-08-25T06:51:47.315Z  
 
 ```py
 # cook your dish here
-import math
 t=int(input())
 while t>0:
     n,x=map(int,input().split())
-    if n>5:
-        print(math.ceil(n/6)*x)
-    else:
-        print(n*x)
+    subscriptions=(n+5)//6
+    print(subscriptions*x)
     t-=1
 ```
 
